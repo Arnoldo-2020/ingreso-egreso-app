@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "prueba-73b96": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "prueba-73b96"
+        ]
+      }
+    }
+  }
+}
